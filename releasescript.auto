@@ -1,0 +1,5 @@
+#!/bin/sh
+#
+#  Run when the .tar file is created, updates the .spec file.
+
+#  All done in "do_release" now.
